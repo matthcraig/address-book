@@ -15,7 +15,6 @@ We follow along with the homework assignment and worked on address book to under
 | program creates a unique ID for each contact name | Jane Doe | 03 |
 | program lists all user names | Address Book | Jane Doe, John Doe, Jan Doe, etc |
 | program stores info for each contact, first name, last name, phone number | Jane, Doe, 555-2125 | Jane Doe 555-2125|
-
 ## Setup/Installation Requirements
 
 1. Open the VS code and Open the web tabe
